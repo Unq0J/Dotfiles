@@ -1,0 +1,14 @@
+[audio]
+command=echo -n "🔊: " && pamixer --get-volume
+interval=repeat
+color=#000000
+
+[battery]
+command=~/.config/i3blocks/battery.sh
+interval=30
+color=#000000
+
+[time]
+command=date "+%T %F"
+interval=1
+color=#000000
