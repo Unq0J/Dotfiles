@@ -7,7 +7,7 @@ Using this as my main config
 
 apps being used
 ----------------
-picom - compositor
-feh - wallpaper
-pamixer - audio display for i3blocks
-dmenu - menu no config *yet*
+  picom - compositor
+  feh - wallpaper
+  pamixer - audio display for i3blocks
+  dmenu - menu no config *yet*
